@@ -622,7 +622,7 @@ function Details() {
 
                 <div className="grid justify-center grid-cols-1 gap-2 pb-8 mx-8 md:grid-cols-2 lg:grid-cols-2">
                     <div className="flex p-6 text-6xl rounded-xl h-48 w-48">
-                        <Image width="250" height="250" src="/3D_Model_QR_Code/Laser_Mining_Drill.png" alt="" className="rounded-xl"/>
+                        <Image width="250" height="250" src="/3D_Model_QR_Code/Processing_rig.png" alt="" className="rounded-xl" />
                     </div>
                     <a href="/Processing_rig.html" target="_blank" rel="noreferrer">
                         <button className="h-12 px-8 ml-8 text-base font-semibold tracking-wider text-white border rounded-full shadow-sm mt-16 bg-red-50 bg-gradient-to-r from-secondary to-tertiary hover:shadow-lg">View in AR</button>
