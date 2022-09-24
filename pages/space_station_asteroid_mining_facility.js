@@ -196,7 +196,7 @@ function Details() {
 
                 <div className="grid justify-center grid-cols-1 gap-2 pb-8 mx-8 md:grid-cols-2 lg:grid-cols-2">
                     <div className="flex p-6 text-6xl rounded-xl h-48 w-48">
-                        <Image width="250" height="250" src="/3D_Model_QR_Code/Laser_Mining_Drill.png" alt="" />
+                        <Image width="250" height="250" src="/3D_Model_QR_Code/Laser_Mining_Drill.png" alt="" className="rounded-xl"/>
                     </div>
                     <a href="/asteroid_mining_facility.html" target="_blank" rel="noreferrer">
                         <button className="h-12 px-8 ml-8 text-base font-semibold tracking-wider text-white border rounded-full shadow-sm mt-16 bg-red-50 bg-gradient-to-r from-secondary to-tertiary hover:shadow-lg">View in AR</button>
@@ -216,7 +216,7 @@ export default function Space_station_asteroid_mining_facility() {
                     Asteroid Mining Facility
                 </h1>
                 <div className="inline-flex mt-2 h-1 bg-secondary rounded-full w-72"></div>
-                <div className="text-justify text-xl w-86 mt-2 mx-4 md:mx-44">This work is based on "Space Station Asteroid Mining Facility" (https://sketchfab.com/3d-models/space-station-asteroid-mining-facility-be146cbcc43e4049ac0236e9e269877e) by Inditrion Dradnon (https://sketchfab.com/dradnon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)</div>
+                <div className="text-justify text-xl w-86 mt-2 mx-4 md:mx-44">This work is based on &quot;Space Station Asteroid Mining Facility&quot; (https://sketchfab.com/3d-models/space-station-asteroid-mining-facility-be146cbcc43e4049ac0236e9e269877e) by Inditrion Dradnon (https://sketchfab.com/dradnon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)</div>
             </div>
 
             <div className="md:grid md:grid-cols-3 md:pr-15 pr-1">

@@ -593,11 +593,6 @@ export function Model(props) {
 function Details() {
 
     const snap = useSnapshot(state)
-    // return(
-    //     <div className="text-2xl text-white">
-    //         {snap.current}
-    //     </div>
-    // )
     if (snap.current === "s1347_geostationbs_shell_02") {
         return (
             <div className="h-full md:flex md:flex-col md:justify-center">
@@ -627,7 +622,7 @@ function Details() {
 
                 <div className="grid justify-center grid-cols-1 gap-2 pb-8 mx-8 md:grid-cols-2 lg:grid-cols-2">
                     <div className="flex p-6 text-6xl rounded-xl h-48 w-48">
-                        <Image width="250" height="250" src="/3D_Model_QR_Code/Laser_Mining_Drill.png" alt="" />
+                        <Image width="250" height="250" src="/3D_Model_QR_Code/Laser_Mining_Drill.png" alt="" className="rounded-xl"/>
                     </div>
                     <a href="/Processing_rig.html" target="_blank" rel="noreferrer">
                         <button className="h-12 px-8 ml-8 text-base font-semibold tracking-wider text-white border rounded-full shadow-sm mt-16 bg-red-50 bg-gradient-to-r from-secondary to-tertiary hover:shadow-lg">View in AR</button>
@@ -647,7 +642,7 @@ export default function Processing_rig() {
                     Processing Rig
                 </h1>
                 <div className="inline-flex mt-2 h-1 bg-secondary rounded-full w-72"></div>
-                <div className="text-justify text-xl w-86 mt-2 mx-4 md:mx-44">This work is based on "System: Velorum Position: Processing Rig" (https://sketchfab.com/3d-models/system-velorum-position-processing-rig-6e7765657f0444939c9fabd02a359b57) by Star Conflict (https://sketchfab.com/star_conflict) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)</div>
+                <div className="text-justify text-xl w-86 mt-2 mx-4 md:mx-44">This work is based on &quot;System: Velorum Position: Processing Rig&quot; (https://sketchfab.com/3d-models/system-velorum-position-processing-rig-6e7765657f0444939c9fabd02a359b57) by Star Conflict (https://sketchfab.com/star_conflict) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)</div>
             </div>
 
             <div className="md:grid md:grid-cols-3 md:pr-15 pr-1">

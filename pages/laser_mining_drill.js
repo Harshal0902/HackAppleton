@@ -21,7 +21,7 @@ export default function Laser_mining_drill() {
                     Laser Mining Drill
                 </h1>
                 <div className="inline-flex mt-2 h-1 bg-secondary rounded-full w-72"></div>
-                <div className="text-justify text-2xl w-86 mt-2 mx-4 md:mx-44">The Laser Drill being used to mine Stone Slabs. It produces a drill beam that extends up to 11 tiles in length. The drill can be of length upto 36m. These are automated drills and once launcehed they can be used to extract various minerals. This work is based on "Laser mining drill" (https://sketchfab.com/3d-models/laser-mining-drill-d784429311824407afa097338ca06ffe) by Homewarriors (https://sketchfab.com/Homewarriors) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)</div>
+                <div className="text-justify text-2xl w-86 mt-2 mx-4 md:mx-44">The Laser Drill being used to mine Stone Slabs. It produces a drill beam that extends up to 11 tiles in length. The drill can be of length upto 36m. These are automated drills and once launcehed they can be used to extract various minerals. This work is based on &quot;Laser mining drill&quot; (https://sketchfab.com/3d-models/laser-mining-drill-d784429311824407afa097338ca06ffe) by Homewarriors (https://sketchfab.com/Homewarriors) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)</div>
             </div>
 
             <div className="md:grid md:grid-cols-3 md:pr-15 pr-1">
@@ -44,7 +44,7 @@ export default function Laser_mining_drill() {
 
                         <div className="grid justify-center grid-cols-1 gap-2 pb-8 mx-8 md:grid-cols-2 lg:grid-cols-2">
                             <div className="flex p-6 text-6xl rounded-xl">
-                                <Image width="600" height="600" src="/3D_Model_QR_Code/Laser_Mining_Drill.png" className="rounded-xl" />
+                                <Image width="600" height="600" src="/3D_Model_QR_Code/Laser_Mining_Drill.png" alt="img" className="rounded-xl" />
                             </div>
                             <a href="https://go.echo3d.co/kAfa" target="_blank" rel="noreferrer">
                                 <button className="h-12 px-8 ml-8 text-base font-semibold tracking-wider text-white border rounded-full shadow-sm mt-16 bg-red-50 bg-gradient-to-r from-secondary to-tertiary hover:shadow-lg">View in AR</button>
