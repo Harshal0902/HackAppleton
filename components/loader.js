@@ -8,7 +8,7 @@ export default function Loader() {
                 transparent
                 opacity={0.6}
                 roughness={1}
-                metalness={0}
+                metalness={0} 
             />
         </mesh>
     )
