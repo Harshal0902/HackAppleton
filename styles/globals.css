@@ -8,3 +8,21 @@
 body {
   background-color: #1b2431;
 }
+
+.card {
+  transition: all 2s ease;
+  transform-style: preserve-3d;
+}
+
+.front,
+.back {
+  backface-visibility: hidden;
+}
+
+.card-container:hover .card {
+  transform: rotateY(360deg);
+}
+
+.back {
+  transform: rotateY(180deg);
+}
