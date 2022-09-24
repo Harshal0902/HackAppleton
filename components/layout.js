@@ -9,7 +9,7 @@ export default function Layout({ children }) {
             <Head>
                 <title>Space Ore Stuff Inc.</title>
                 <meta name="description" content="Space Ore Stuff Inc." />
-                <link rel="icon" href="/logo.ico" />
+                <link rel="icon" href="/favicon.ico" />
             </Head>
 
 
