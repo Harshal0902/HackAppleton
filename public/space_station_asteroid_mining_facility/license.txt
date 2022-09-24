@@ -1,0 +1,11 @@
+Model Information:
+* title:	Space Station Asteroid Mining Facility
+* source:	https://sketchfab.com/3d-models/space-station-asteroid-mining-facility-be146cbcc43e4049ac0236e9e269877e
+* author:	Inditrion Dradnon (https://sketchfab.com/dradnon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Space Station Asteroid Mining Facility" (https://sketchfab.com/3d-models/space-station-asteroid-mining-facility-be146cbcc43e4049ac0236e9e269877e) by Inditrion Dradnon (https://sketchfab.com/dradnon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

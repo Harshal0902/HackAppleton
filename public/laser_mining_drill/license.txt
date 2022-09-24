@@ -1,0 +1,11 @@
+Model Information:
+* title:	Laser mining drill
+* source:	https://sketchfab.com/3d-models/laser-mining-drill-d784429311824407afa097338ca06ffe
+* author:	Homewarriors (https://sketchfab.com/Homewarriors)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Laser mining drill" (https://sketchfab.com/3d-models/laser-mining-drill-d784429311824407afa097338ca06ffe) by Homewarriors (https://sketchfab.com/Homewarriors) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

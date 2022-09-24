@@ -20,7 +20,8 @@ module.exports = {
       },
     },
     fontFamily: {
-      'montserrat': ['Montserrat']
+      'montserrat': ['Montserrat'],
+      'sansSerif': ['Source Sans Pro', 'sans-serif']
     }
   },
   variants: {

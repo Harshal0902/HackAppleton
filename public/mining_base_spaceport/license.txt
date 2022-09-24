@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mining Base Spaceport
+* source:	https://sketchfab.com/3d-models/mining-base-spaceport-6283537511d54a4eb33ca6c7b7b64d74
+* author:	Binkley-Spacetrucker (https://sketchfab.com/Binkley-Piratepants)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mining Base Spaceport" (https://sketchfab.com/3d-models/mining-base-spaceport-6283537511d54a4eb33ca6c7b7b64d74) by Binkley-Spacetrucker (https://sketchfab.com/Binkley-Piratepants) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
